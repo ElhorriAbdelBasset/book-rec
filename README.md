@@ -1,5 +1,5 @@
-# book-rec
-Book Recommandation Website
+# Book Recommandation Website
+
 
 
 theme: minima
